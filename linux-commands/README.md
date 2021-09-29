@@ -1,7 +1,8 @@
-ls 
-touch
-pwd
-mkdir
-cd
-nano
+##Linux Commands 
+-ls 
+-touch
+-pwd
+-mkdir
+-cd
+-nano
 
